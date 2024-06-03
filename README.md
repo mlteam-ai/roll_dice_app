@@ -4,6 +4,8 @@ A sample Flutter project based on the Udemy course [Flutter & Dart - The Complet
 
 ![Here is the recording of the app](recording.gif)
 
+NOTE - The app is configured for and tested on iOS only.
+
 ## What is in This Project?
 
 * Core Flutter and Dart concepts for building a Flutter app
